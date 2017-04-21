@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "Default Blue Theme",
+    "description": "Default Blue Theme for chrome"
+  },
+  "appDesc": {
+    "message": "Default Blue Theme for chrome", 
+    "description":"Default Blue Theme for chrome"
+  }
+}
